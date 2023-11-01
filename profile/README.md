@@ -1,1 +1,1 @@
-Welcome to Gramado organization. todo: '1.2.3'
+Welcome to Gramado organization.

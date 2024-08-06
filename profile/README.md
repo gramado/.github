@@ -1,3 +1,4 @@
 > Main projects:
-> * kernel/   - This is the kernel for Gramado OS.
-> * de/       - This is the desktop environment for Gramado OS.
+> * gramde/  - This is the desktop environment for Gramado OS.
+> * gramse/  - This is the server environment for Gramado OS.
+> * kernel/  - This is the kernel for Gramado OS.
